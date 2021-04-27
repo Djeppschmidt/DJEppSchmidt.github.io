@@ -1,4 +1,4 @@
-# Welcome to Dietrich Epp Schmidt's GitHub page!
+# Welcome to Dietrich Epp Schmidt's GitHub!
 
 A quick intro: I'm an ecologist that studies agricultural systems. My topical specialization is in soil microbial communities and their responses to land use. I primarily use R for scripting and data analysis. **Here are some of my projects:**
 
