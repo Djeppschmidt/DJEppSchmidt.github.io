@@ -10,7 +10,7 @@ The soil microbiome is an important part of any agricultural production system. 
 
 A tremendous number of statistical inference software exists for microbiome research; however very little of it was designed with environmental experiments in mind. Model microbiome is a software development project intended to create a platform that generates an artificial sampling environment for benchmarking inferential software; and explicitly testing the robustness of each software to a diverse array of potential sampling biases. This software package includes a flexible array of parameters that allow the researcher to adapt the characteristics of their community to the specific system they are working in; and therefor to explicitly test the robustness of several softwares within their own system.
 
-### MyMycorrhizaeProject <img src="https://user-images.githubusercontent.com/19291020/116314739-7de76780-a77d-11eb-82ce-63128d274a98.jpeg" width=200 align=right>
+### MyMycorrhizaeProject 
 
 The goal of this project is to:
 
@@ -19,6 +19,8 @@ The goal of this project is to:
 3. Support agroforestry and forest management objectives by:
 4. Building a technical knowledgebase (and reference material) for reliable inoculation and maintenance of the edible ectomycorrhizal mushroom yield of forest or agroforest systems in North America.
 5. Maintain wild populations of choice edible mycorrhizal fungi for future generations to enjoy!
+
+<img src="https://user-images.githubusercontent.com/19291020/116314739-7de76780-a77d-11eb-82ce-63128d274a98.jpeg" width=400 align=center>
 
 ### GLUSEEN (Urban Soils)
 
