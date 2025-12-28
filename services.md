@@ -31,21 +31,21 @@ For inquiries about research collaboration or consulting services, please reach 
 ## Explore Our Offerings
 
 <details>
-  <summary>Accordion 1 Title</summary>
+  <summary>Scientific Programming Support</summary>
   Add your content for Accordion 1 here.
 </details>
 
 <details>
-  <summary>Accordion 2 Title</summary>
+  <summary>Soil Organic Carbon Modeling & Sample Design</summary>
   Add your content for Accordion 2 here.
 </details>
 
 <details>
-  <summary>Accordion 3 Title</summary>
+  <summary>Soil & Microbiome Synthesis and Interpretation</summary>
   Add your content for Accordion 3 here.
 </details>
 
 <details>
-  <summary>Accordion 4 Title</summary>
+  <summary>Mycorrhization Technical Support</summary>
   Add your content for Accordion 4 here.
 </details>
