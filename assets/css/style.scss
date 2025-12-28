@@ -8,12 +8,5 @@
 html {
   background: url('{{ site.background_image | relative_url }}') no-repeat center center fixed !important;
   background-size: cover !important;
-  /* Remove the default gradient */
-  background-image: url('{{ site.background_image | relative_url }}') !important;
-}
-
-/* Optional: Add a semi-transparent overlay to maintain readability */
-body {
-  background: rgba(255, 255, 255, 0.1) url('../images/checker.png') fixed;
 }
 {% endif %}
