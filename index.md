@@ -1,6 +1,11 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to Dietrich Epp Schmidt's GitHub!
 
-A quick intro: I'm an ecologist that studies agricultural systems. My topical specialization is in soil microbial communities and their responses to land use. I primarily use R for scripting and data analysis. **Here are some of my projects:**
+**Here are some of my projects:**
 
 ### Soil Health Monitoring
 
@@ -26,28 +31,4 @@ The goal of this project is to:
 
 This project examined the urban convergence hypothesis across five globally distributed cities. It included both an amplicon and shotgun sequencing approach using the Illumina sequencing platforms. We found that urban land use did lead to a significant convergence of ectomycorrhizae, driven by a loss of biodiversity under intense management or disturbance regimes. We also found that there was convergence of the archaeal community at a global scale driven by a large increase in abundance and diversity of a small group of ammonia oxidizers across all cities we studied. Further, we found that there were more methanogens under high management and disturbance; and that they were likely sequestering nickel in their biomass. You can read the papers [here](https://doi.org/10.1038/s41559-017-0123) and [here](https://doi.org/10.3389/fmicb.2019.02330). The website of the GLUSEEN collaboration is [here](http://www.gluseen.org/).
 
-## CV
 
-coming soon
-
-Cheat sheet for myself:
-
-**Bold** and _Italic_ and `Code` text
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
