@@ -27,3 +27,25 @@ I provide consulting services in the following areas:
 ## Contact
 
 For inquiries about research collaboration or consulting services, please reach out through GitHub.
+
+## Explore Our Offerings
+
+<details>
+  <summary>Accordion 1 Title</summary>
+  Add your content for Accordion 1 here.
+</details>
+
+<details>
+  <summary>Accordion 2 Title</summary>
+  Add your content for Accordion 2 here.
+</details>
+
+<details>
+  <summary>Accordion 3 Title</summary>
+  Add your content for Accordion 3 here.
+</details>
+
+<details>
+  <summary>Accordion 4 Title</summary>
+  Add your content for Accordion 4 here.
+</details>
