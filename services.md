@@ -39,6 +39,7 @@ I enjoy accelerating work that supports positive ecological outcomes, and reprod
 .
 </details>
 
+
 ## Contact
 
 For inquiries about research collaboration, consulting services, or to send a direct message, please fill out the contact form below: 
