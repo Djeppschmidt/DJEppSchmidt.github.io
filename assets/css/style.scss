@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom background image override */
+{% if site.background_image %}
+html {
+  background: url('{{ site.background_image | relative_url }}') no-repeat center center fixed !important;
+  background-size: cover !important;
+}
+{% endif %}
