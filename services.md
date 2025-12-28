@@ -5,17 +5,31 @@ title: Services
 
 # Services
 
-I enjoy accelerating work that supports positive ecological outcomes, and reproducible science. Here are a few service templates I offer. I have broad experience in environmental modeling and applied ecology; if these offerings do not perfectly match your problem, reach out anyway!
+I enjoy accelerating work that supports positive ecological outcomes, and reproducible science. Here are a few service templates I offer. I have broad experience in environmental modeling and applied [...]
 
 ## Contact
 
-For inquiries about research collaboration or consulting services, please reach out through LinkedIn, or directly to my email.
+For inquiries about research collaboration, consulting services, or to send a direct message, please fill out the contact form below: 
+
+<form action="https://formspree.io/f/{your-form-id}" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required><br>
+  
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" required><br>
+
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="4" required></textarea><br>
+  
+  <button type="submit">Send</button>
+</form>
+
+You can also reach out through LinkedIn, or directly through email.
 
 ## Explore My Offerings
 
 <details>
-  <summary>Scientific Programming & Reproducible Workflows
-</summary>
+  <summary>Scientific Programming & Reproducible Workflows</summary>
   
 <img width="468" height="630" alt="image" src="https://github.com/user-attachments/assets/74d0903c-2144-47ee-a0d4-44724ace9aaa" />
 
