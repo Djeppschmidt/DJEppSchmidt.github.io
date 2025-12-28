@@ -11,9 +11,15 @@ I provide hands-on technical consulting for environmental researchers, NGOs, and
 
 ## How It Works
 
-Step 1: Initial Consultation – Discuss project goals and constraints.
-Step 2: Scope & Proposal – Define deliverables, timeline, and fee structure.
-Step 3: Project Execution – Implement analysis, modeling, or consultation services.
-Step 4: Delivery & Review – Provide actionable results, reproducible scripts, and documentation.
+<b>Step 1:</b> Initial Consultation – Discuss project goals and constraints.
+&nbsp;
+<b>Step 2:</b> Scope & Proposal – Define deliverables, timeline, and fee structure.
+&nbsp;
+<b>Step 3:</b> Project Execution – Implement analysis, modeling, or consultation services.
+&nbsp;
+<b>Step 4:</b> Delivery & Review – Provide actionable results, reproducible scripts, and documentation.
+&nbsp;
+
+### Example Projects
 
 
