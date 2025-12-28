@@ -5,47 +5,39 @@ title: Services
 
 # Services
 
-## Research Consulting
-
-I provide consulting services in the following areas:
-
-### Soil Microbiome Analysis
-- Metabarcoding and whole-genome sequencing
-- Microbiome annotation and interpretation
-- Soil health monitoring framework development
-
-### Statistical Analysis
-- R programming and data analysis
-- Microbiome statistical inference
-- Environmental experiment design and analysis
-
-### Agricultural Systems
-- Soil health assessment
-- Mycorrhizal management
-- Agroforestry planning
+I enjoy accelerating work that supports positive ecological outcomes, and reproducible science. Here are a few service templates I offer. I have broad experience in environmental modeling and applied ecology; if these offerings do not perfectly match your problem, reach out anyway!
 
 ## Contact
 
-For inquiries about research collaboration or consulting services, please reach out through GitHub.
+For inquiries about research collaboration or consulting services, please reach out through LinkedIn, or directly to my email.
 
-## Explore Our Offerings
+## Explore My Offerings
 
 <details>
-  <summary>Scientific Programming Support</summary>
-  Add your content for Accordion 1 here.
+  <summary>Scientific Programming & Reproducible Workflows
+</summary>
+  
+<img width="468" height="630" alt="image" src="https://github.com/user-attachments/assets/74d0903c-2144-47ee-a0d4-44724ace9aaa" />
+
 </details>
 
 <details>
   <summary>Soil Organic Carbon Modeling & Sample Design</summary>
-  Add your content for Accordion 2 here.
+  
+<img width="468" height="601" alt="image" src="https://github.com/user-attachments/assets/d3364765-dd89-46f2-b6df-4afb717454ee" />
+
 </details>
 
 <details>
   <summary>Soil & Microbiome Synthesis and Interpretation</summary>
-  Add your content for Accordion 3 here.
+  
+<img width="468" height="601" alt="image" src="https://github.com/user-attachments/assets/89550cd5-28c0-4234-9e8e-1718f2d96acd" />
+
 </details>
 
 <details>
   <summary>Mycorrhization Technical Support</summary>
-  Add your content for Accordion 4 here.
+  
+<img width="468" height="469" alt="image" src="https://github.com/user-attachments/assets/d36ad92d-42dd-4fbb-94f4-2e9f00f26d6d" />
+.
 </details>
