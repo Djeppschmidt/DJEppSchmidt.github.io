@@ -19,7 +19,7 @@ title: About Me
 <div style="display: flex; align-items: flex-start;">
 
   <div style="margin-right: 20px;">
-    <img src="images/6E85793F-3A0A-47D1-95E9-81F2BD470887_1_105_c.jpeg" alt="A photo of me" style="max-width: 200px; border-radius: 10px;">
+    <img src="images/6E85793F-3A0A-47D1-95E9-81F2BD470887_1_105_c.jpeg" alt="Frosted hazelnut leaf" style="max-width: 200px; border-radius: 10px;">
   </div>
   
   <div style="flex: 1;">
