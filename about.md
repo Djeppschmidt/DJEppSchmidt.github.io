@@ -1,23 +1,19 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
 
-# About Dietrich Epp Schmidt
+# Research
 
-I'm an ecologist that studies agricultural systems. My topical specialization is in soil microbial communities and their responses to land use. I primarily use R for scripting and data analysis.
+My background sits at the intersection of molecular ecology, biogeochemistry (carbon and nitrogen cycling), and land use and management. My scientific research has ranged from decoding the way genomes interact with land management at the field scale, to uncovering fundamental ecological processes at the global scale. I have designed a national scale sampling program for Soil Organic Carbon monitoring in the USDA. I have a deep technical skillset in scientific programming, and modeling natural systems, which I use to solve real world problems.
 
-## Background
 
-My research focuses on understanding how agricultural practices impact soil microbial communities and how these communities, in turn, affect plant health and productivity. Through my work, I aim to develop practical tools and frameworks that help farmers make informed decisions about soil health management.
+## Personal Interests
 
-## Research Interests
+As a practicing agro-ecologist, my focus is on building self sustaining ecosystems that provide high value economic off-takes while supporting robust ecosystem function. For me, producing local genotype truffles on native nut crops fits this bill perfectly. The truffles form a mycorrhizal symbiosis that benefits the host plants. The hazelnuts, chestnuts, hickories, and oaks provide a resilient and calorific crop in addition to the underground harvest of the truffles. I intercrop with a variety of staples, including sunflower, corn, and beans to round out the production. I also intersperse perennial herbal products like mint, roman chamomile, ginseng, and goldenseal which support polinator diversity and provide additional revenue streams.
 
-- Soil microbial ecology
-- Agricultural systems
-- Land use impacts on microbial communities
-- Metabarcoding and whole-genome sequencing
-- Statistical methods for microbiome research
+I enjoy cooking freshly harvested food and sharing the harvest with of good friends around a campfire. I'm also an avid forager of berries and wild mushrooms, and often find myself most at peace in the depths of the Monongahela National Forest.
+
 
 ## Published Works
 
