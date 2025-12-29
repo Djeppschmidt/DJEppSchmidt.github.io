@@ -10,7 +10,7 @@ title: About Me
     <p>My background sits at the intersection of molecular ecology, biogeochemistry (carbon and nitrogen cycling), and land use and management. My scientific research has ranged from decoding the way genomes interact with land management at the field scale, to uncovering fundamental ecological processes at the global scale. I have designed a national scale sampling program for Soil Organic Carbon monitoring in the USDA. I have a deep technical skillset in scientific programming, and modeling natural systems, which I use to solve real world problems.</p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="humaneecology.github.oi/images/FB189CCF-C9BB-4E07-A021-5FE33E409F3A_4_5005_c.jpeg" alt="A photo of me" style="max-width: 200px; border-radius: 10px;">
+    <img src="/HumaneEcology.github.io/images/FB189CCF-C9BB-4E07-A021-5FE33E409F3A_4_5005_c.jpeg" alt="A photo of me" style="max-width: 200px; border-radius: 10px;">
   </div>
 </div>
 
