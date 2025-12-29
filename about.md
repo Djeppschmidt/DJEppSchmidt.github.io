@@ -16,11 +16,19 @@ title: About Me
 
 
 ## Personal Interests
+<div style="display: flex; align-items: flex-start;">
 
+  <div style="margin-right: 20px;">
+    <img src="images/6E85793F-3A0A-47D1-95E9-81F2BD470887_1_105_c.jpeg" alt="A photo of me" style="max-width: 200px; border-radius: 10px;">
+  </div>
+  
+  <div style="flex: 1;">
 As a practicing agro-ecologist, my focus is on building self sustaining ecosystems that provide high value economic off-takes while supporting robust ecosystem function. For me, producing local genotype truffles on native nut crops fits this bill perfectly. The truffles form a mycorrhizal symbiosis that benefits the host plants. The hazelnuts, chestnuts, hickories, and oaks provide a resilient and calorific crop in addition to the underground harvest of the truffles. I intercrop with a variety of staples, including sunflower, corn, and beans to round out the production. I also intersperse perennial herbal products like mint, roman chamomile, ginseng, and goldenseal which support polinator diversity and provide additional revenue streams.
 
 I enjoy cooking freshly harvested food and sharing the harvest with of good friends around a campfire. I'm also an avid forager of berries and wild mushrooms, and often find myself most at peace in the depths of the Monongahela National Forest.
-
+ </div>
+  
+</div>
 
 ## Published Works
 
